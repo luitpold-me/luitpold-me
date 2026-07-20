@@ -2,7 +2,7 @@
 
 Senior Software Engineer in Sài Gòn - these days mostly building the AI systems that build the software.
 
-Frontend by trade (React · TypeScript · Next.js), AI orchestration by obsession. At [Gradion](https://github.com/nfq-asia) I'm the resident AI Ambassador: the one who tries every new agent, pipeline and model so the team doesn't have to, then wires the good ones into things people actually use.
+Frontend by trade (React · TypeScript · Next.js), AI orchestration by obsession. At [Gradion](https://github.com/gradionhq) I'm the resident AI Ambassador: the one who tries every new agent, pipeline and model so the team doesn't have to, then wires the good ones into things people actually use.
 
 Most of my real work lives in private repos (client stuff - you know how it is), so this profile is the quiet tip of a much noisier iceberg.
 
